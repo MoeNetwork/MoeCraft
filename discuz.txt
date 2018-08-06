@@ -1,0 +1,145 @@
+[align=center][size=5][b][color=Red]本服是公益服并且愿意承担虚假宣传的一切后果[/color][/b][/size][/align]
+
+
+[size=5][b][color=Green]特色[/color][/b][/size]
+[quote][color=Black]MoeCraft 创立于2016年六月，是一个非盈利的、旨在为热爱MC的玩家创造最优环境的公益Minecraft服务器[/color][/quote]
+每份入服申请均由多名老玩家及操作员审核，最大限度确保新玩家素质达到要求
+
+[size=3][b]自由[/b][/size]
+MoeCraft并无严格的规则来限制玩家的行为，MoeCraft信任每一位玩家的自我约束能力，因此M,oeCraft开放了几乎一切能开放的功能给全部玩家。
+
+[quote]你喜欢采矿镭射那高效直接的采矿手段吗？那就扔掉手中的钻头吧！
+你喜欢核弹爆炸产生的快感吗？那就尽情享用吧！[/quote]
+[b]本服服规即为：不做你认为不应该做的[/b]
+[size=3][b]平等[/b][/size]
+MoeCraft旨在淡化OP对游戏的影响，我们认为，OP亦为玩家。
+[size=3][b]民主[/b][/size]
+我们坚信，影响玩家的决策应该由玩家决定。
+
+[size=5][color=Green][b]如何加入MoeCraft[/b][/color][/size]
+[list=1]
+[*]请打开 [url=https://accounts.moecraft.net/index.php?m=home&c=apply&a=applyinvitecode]https://accounts.moecraft.net/index.php?m=home&c=apply&a=applyinvitecode[/url] 提交邀请码申请
+[*]我们会在最长72小时内审核您的申请。申请通过后您将收到邀请码邮件。您也可以手动查询申请状态
+[*]申请通过后，请您点击用户中心（[url=https://accounts.moecraft.net/]https://accounts.moecraft.net/[/url]）上的注册按钮，输入信息完成注册。
+[*]完成注册后，按照提示输入MC玩家名确保可以登录游戏。
+[*]点击用户中心主页的“下载客户端”按钮下载MoeCraft客户端（根据你的系统选择客户端平台）
+[*]打开更新器，完成更新。[b][color=Blue]（注意:[/color] 未来若有更新从这步开始操作)[/b]
+[*]按照更新器指示完成更新。
+[*]点击[b]Launcher[/b]，添加账号，[b]账号类型选择Authlib-Injector[/b]（有[b]操作图解[/b]，见下文“图册”）
+[*]输入你的用户中心邮箱和密码。
+[*]游戏[b]选择“MoeCraft”[/b]或[b]“1.12.2-[color=Blue]Forge[/color]”[/b]，双击进入游戏.
+[/list]
+[b]注意：[/b]若提示“无效的用户名”，则说明你操作错误，请关闭游戏，重新按照上面第六步操作。
+[b]注意：[/b]若上述操作过程出现异常问题，请联系我们（见下文）
+
+[size=5][b][color=Green]Mod 清单[/color][/b][/size]
+[spoiler][code]Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        2018/6/23      0:41        2882720 ActuallyAdditions-1.12.2-r135.jar
+-a----        2018/6/23      0:34         513374 ae2stuff-0.7.0.4-mc1.12.2.jar
+-a----        2018/6/23      0:48          81904 AppleCore-mc1.12.2-3.1.3.jar
+-a----         2018/6/6     23:48        3570947 appliedenergistics2-rv5-stable-11.jar
+-a----        2018/6/23      0:48         220072 Aroma1997Core-1.12.2-1.3.0.2.jar
+-a----        2018/6/23      0:16        1962731 bdlib-1.14.3.12-mc1.12.2.jar
+-a----         2018/6/8      2:24         155196 BetterFps-1.4.8.jar
+-a----        2018/6/23      0:36        5122856 BiblioCraft[v2.4.5][MC1.12.2].jar
+-a----        2018/6/23      0:44         737948 BrandonsCore-1.12-2.4.2.157-universal.jar
+-a----        2018/6/12     23:58        4294434 Chisel-MC1.12.2-0.2.0.31.jar
+-a----        2018/6/23      1:15         678911 CodeChickenLib-1.12.2-3.1.9.344-universal.jar
+-a----         2018/6/7     23:37         838177 CoFHCore-1.12.2-4.5.2.19-universal.jar
+-a----         2018/6/7     23:38         449717 CoFHWorld-1.12.2-1.2.0.5-universal.jar
+-a----         2018/7/9      8:53          71767 CompactSolars-1.12.2-5.0.17.340-universal.jar
+-a----        2018/6/23      0:47         567928 CookingForBlockheads_1.12.2-6.4.40.jar
+-a----        2018/6/30     21:25        1275699 CraftTweaker2-1.12-4.1.9.jar
+-a----        2018/6/23      0:50         190760 CTM-MC1.12-0.3.0.15.jar
+-a----        2018/6/23      0:44        5616878 Draconic-Evolution-1.12-2.3.11.290-universal.jar
+-a----         2018/6/9     23:42        2938611 extrautils2-1.12-1.7.6.jar
+-a----         2018/6/7     23:34         206359 foamfix-0.9.9.1-1.12.2-anarchy.jar
+-a----        2018/6/23      0:43        5289088 forestry_1.12.2-5.8.0.305.jar
+-a----        2018/6/23      0:40        4595089 Forgelin-1.7.4.jar
+-a----         2018/6/6     23:40         453778 Hwyla-1.8.26-B41_1.12.2.jar
+-a----         2018/6/6     23:50        7998046 industrialcraft-2-2.8.83-ex112.jar
+-a----        2018/6/23      0:32        1358547 industrialforegoing-1.12.2-1.10.1-176.jar
+-a----        2018/6/23      0:53          26731 InventorySpam-1.12.0-1.0.3.jar
+-a----         2018/6/7     23:42         263258 InventoryTweaks-1.63.jar
+-a----        2018/6/30     21:20        1101965 ironchest-1.12.2-7.0.40.824.jar
+-a----        2018/6/23      0:16         571526 jei_1.12.2-4.10.0.198.jar
+-a----         2018/6/6     23:37        1822850 journeymap-1.12.2-5.5.2.jar
+-a----        2018/6/23      0:17         213675 JustEnoughResources-1.12.2-0.8.5.27.jar
+-a----         2018/6/9     23:45         860884 Mantle-1.12-1.3.2.24.jar
+-a----        2018/6/23      0:14         476977 mcjtylib-1.12-3.0.2.jar
+-a----        2018/6/24     23:32       16020358 Mekanism-1.12.2-9.4.13.349.jar
+-a----        2018/6/24     23:32         338984 MekanismGenerators-1.12.2-9.4.13.349.jar
+-a----        2018/6/30     21:25         398780 modtweaker-4.0.12.jar
+-a----        2018/6/30     21:25          30005 MTLib-3.0.5.jar
+-a----        2018/6/30     21:20          61908 NBTEdit-0.7.jar
+-a----        2018/6/23      0:20         465901 NotEnoughItems-1.12.2-2.4.1.233-universal.jar
+-a----         2018/6/7     23:23        3173186 OpenBlocks-1.12.2-1.7.6.jar
+-a----        2018/6/23      0:42       15316083 OpenComputers-MC1.12.2-1.7.2.67.jar
+-a----         2018/6/7     23:22        2609119 OpenModsLib-1.12.2-0.11.5.jar
+-a----         2018/6/6     23:42        2380874 OptiFine_1.12.2_HD_U_D3.jar
+-a----        2018/6/23      0:45        4366852 Pam's+HarvestCraft+1.12.2u.jar
+-a----         2018/6/9     23:47         359796 plustic-6.5.2.0.jar
+-a----         2018/6/7     23:37          35219 RedstoneFlux-1.12-2.0.2.3-universal.jar
+-a----        2018/6/23      0:14        2883228 rftools-1.12-7.54.jar
+-a----        2018/6/23      0:34         346204 roost-1.12-1.2.0.jar
+-a----        2018/6/23      0:51         216373 SmoothFont-1.12.2-1.15.jar
+-a----        2018/6/23      0:47         207687 SpiceOfLife-mc1.12-1.3.12.jar
+-a----         2018/6/9     23:45        3851409 TConstruct-1.12.2-2.10.1.84.jar
+-a----        2018/6/23      0:35        1140125 tesla-core-lib-1.12.2-1.0.14.jar
+-a----        2018/6/23      0:46         103830 ThermalCultivation-1.12.2-0.3.0.7-universal.jar
+-a----        2018/6/23      0:45         758676 ThermalDynamics-1.12.2-2.5.1.14-universal.jar
+-a----        2018/6/23      0:46        2342103 ThermalExpansion-1.12.2-5.5.0.29-universal.jar
+-a----         2018/6/7     23:36        2284786 ThermalFoundation-1.12.2-2.5.0.19-universal.jar
+-a----         2018/6/9     23:48          95021 TinkerToolLeveling-1.12.2-1.0.5.jar
+-a----        2018/6/12     23:55        5819424 tinker_io-1.12.2-release+2.6.1.jar
+-a----        2018/6/23      0:42         177943 UniDict-1.12.2-2.5c.jar
+-a----        2018/6/23      0:37          63189 WanionLib-1.12.2-1.5.jar
+-a----        2018/6/15      0:32          59098 World-Tooltips-1.12.2-1.2.7-102.jar
+-a----        2018/3/18     14:47         461792 WorldEdit+CUI+Forge+Edition+2-2.1.2-mf-1.12-14.21.1.2387.jar
+-a----        2018/3/18     14:17        1470354 worldedit-forge-mc1.12-6.1.8-dist.jar[/code]
+[/spoiler]
+
+[size=5][b][color=Green]图册[/color][/b][/size]
+[b]服务器[/b]
+[attachimg]1235986[/attachimg]
+[attachimg]1235988[/attachimg]
+[attachimg]1235987[/attachimg]
+[attachimg]1235989[/attachimg]
+
+
+[b]用户中心[/b]
+[attachimg]894531[/attachimg]
+[b]登录操作图解[/b]
+[attachimg]1235981[/attachimg]
+
+[size=5][b][color=Green]联系我们[/color][/b][/size]
+您可以通过以下方式联系我们：
+[list]
+[*]电子邮件: [url=mailto:admin@moecraft.net]admin@moecraft.net[/url]
+[*]用户中心的留言板（内容公开）
+[/list]
+
+[size=5][b][color=Green]其他参考信息[/color][/b][/size]
+[spoiler]
+[b]服务器配置[/b]
+[attachimg]1236020[/attachimg]
+
+[b]Telegram 群 / QQ 群[/b]
+注册后见用户中心
+[b]MC服务器IP/域名[/b]
+moecraft.net
+[b]Authlib Injector[/b]
+API URL: [url=https://accounts.moecraft.net/?s=API/Mc/authlib&params=/]https://accounts.moecraft.net/?s=API/Mc/authlib?ms=/[/url]
+[b]Custom Skin Loader[/b]
+API URL: [url=https://accounts.moecraft.net/?s=API/Mc/skin&params=/]https://accounts.moecraft.net/?s=API/Mc/skin?ms=/[/url]
+[b]按照GPLv3协议公开的HMCL for Moecraft v2源代码[/b]
+[url=https://github.com/kenvix/HMCL]https://github.com/kenvix/HMCL[/url]
+[/spoiler]
+
+[size=5]OP证明[/size]
+[spoiler][attachimg]1236016[/attachimg][/spoiler]
+
+
+Written by Kenvix at 2018/08/05
+Copyright (c) 2015~2018 MoeCraft. All Right Reserved
