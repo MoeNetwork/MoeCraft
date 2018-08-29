@@ -1,7 +1,7 @@
 # 特色&概述
 ![screenshot-main]( https://cdn.moecraft.net/client/screenshot.jpg)     
 
-> MoeCraft 创立于 2016 年六月，是一个非盈利的、旨在为热爱 MC 的玩家创造最优环境的公益 Minecraft 服务器
+> MoeCraft 创立于 2015 年六月，是一个非盈利的、旨在为热爱 MC 的玩家创造最优环境的公益 Minecraft 服务器
 
 ### 高水平
 每份入服申请均由多名老玩家及操作员审核，最大限度确保新玩家素质达到要求
