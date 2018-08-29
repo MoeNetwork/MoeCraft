@@ -17,20 +17,22 @@ MoeCraft 旨在淡化 OP 对游戏的影响，我们认为，OP 亦为玩家。
 同时，我们坚信，影响玩家的决策应该由玩家决定。
 # 如何加入 MoeCraft
 
-1. 请打开 [https://accounts.moecraft.net/index.php?m=home&c=apply&a=applyinvitecode]( https://accounts.moecraft.net/index.php?m=home&c=apply&a=applyinvitecode) 提交邀请码申请
+1. 请打开 [https://accounts.moecraft.net/index.php?m=home&c=apply&a=applyinvitecode](https://accounts.moecraft.net/index.php?m=home&c=apply&a=applyinvitecode) 提交邀请码申请
 2. 我们会在最长 72 小时内审核您的申请。申请通过后您将收到邀请码邮件。您也可以手动查询申请状态
-3. 申请通过后，请您点击用户中心（[https://accounts.moecraft.net/]( https://accounts.moecraft.net/)）上的注册按钮，输入信息完成注册。
+3. 申请通过后，请您点击用户中心（[https://accounts.moecraft.net/](https://accounts.moecraft.net/)）上的注册按钮，输入信息完成注册。
 4. 完成注册后，按照提示输入 MC 玩家名确保可以登录游戏。
 5. 点击用户中心主页的“下载客户端”按钮下载 MoeCraft 客户端（根据你的系统选择客户端平台）
 6. 打开更新器，完成更新。（**注意:** 未来若有更新从这步开始操作)
 7. 按照更新器指示完成更新。
-8. 点击 Launcher，添加账号，账号类型选择 Authlib-Injector （有操作图解，见下文“图册”）
+8. 点击 Launcher，添加账号，账号类型选择 **Authlib-Injector** 
 9. 输入你的用户中心邮箱和密码。
-10 .游戏选择“ MoeCraft ”或“ 1.12.2-**Forge**”，双击进入游戏.
+10. 游戏选择“ MoeCraft ”或“ 1.12.2-**Forge**”，双击进入游戏.
 
 **注意：** 若提示“无效的用户名”，则说明你操作错误，请关闭游戏，重新按照上面第六步操作。    
 **注意：** 若上述操作过程出现异常问题，请联系我们（见下文）   
 # Mod 清单
+请访问：[https://accounts.moecraft.net/Doc/Public/status](https://accounts.moecraft.net/Doc/Public/status)     
+以实时查看MoeCraft状态、玩家人数、Mod清单。本文所附Mod清单为发帖时的情况，不建议查看。
 ```
 ActuallyAdditions-1.12.2-r135.jar
 ae2stuff-0.7.0.4-mc1.12.2.jar
@@ -86,6 +88,7 @@ UniDict-1.12.2-2.5c.jar
 WanionLib-1.12.2-1.5.jar
 woot-1.12.2-1.4.1.jar
 ```
+
 # 联系我们
 您可以通过以下方式联系我们：   
 电子邮件: admin$moecraft.net   
