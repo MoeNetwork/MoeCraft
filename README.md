@@ -4,11 +4,11 @@
 
 MoeCraft 创建于 2015 年六月，自创立以来，MoeCraft 始终坚持做一个高自由、高水平、纯公益的 Mod 服务器，将权限尽可能给予玩家、少对游戏进行干涉；同时认真筛选入服玩家，最大限度地确保新玩家的素质能够达到要求。
 
-MoeCraft 采用**全球** BGP 线路。在国内，无论是华北、华南还是华东，电信、联通、移动还是教育网，均能流畅地游玩。在海外，我们设有香港、日本、悉尼、圣彼得堡、西雅图节点进行加速，确保海外用户也能同样地流畅游玩。
+**网络配置**: MoeCraft 采用**全球** BGP 线路。在国内，无论是华北、华南还是华东，电信、联通、移动还是教育网，均能流畅地游玩。在海外，我们设有香港、日本、悉尼、圣彼得堡、西雅图节点进行加速，确保海外用户也能同样地流畅游玩。
 
 MoeCraft 6 即 MoeCraft 第六周目。第六周目旨在减少对原版游戏的侵入式修改，同时对 Mod 进行精心筛选，确保其性能和稳定性能够满足长期运行的需要。换句话说，尽管 Mod 众多，却不会对游戏内容和性能造成太大的影响。同时，本周目选用了单核性能极强的 Intel Xeon CPU E3-1230 v3 CPU 的 **独立服务器**。自本周目运行起，尚未出现过 TPS < 20的情况。
 
-![screenshot-main]( https://cdn.moecraft.net/client/screenshot.jpg)     
+![screenshot-main]( https://cdn.kotori.net/client/screenshot.jpg)     
 
 MoeCraft 并无严格的规则来限制玩家的行为，MoeCraft 信任每一位玩家的自我约束能力，即，MoeCraft 开放了几乎一切能开放的功能给全部玩家。
 
@@ -49,5 +49,13 @@ Github Issue:(**推荐**) [https://github.com/MoeNetwork/MoeCraft/issues](https:
 电子邮件: admin$moecraft.net     
 
 # 其他信息
+## 发布您的资源到 MoeCraft 资源包
+
+您可以通过向[此仓库提交 Pull Request](https://github.com/MoeNetwork/MoeCraft-Resourcepack)来发布您的资源，当 PR 被接受后，您的资源将很快分发到其他玩家。
+
 ## Azure CI 构建状态
 MoeCraft 的 CDN 和资源包通过 Azure Pipeline CI 实现自动化构建和发布。通常更改可在 10 分钟内发布到客户端。
+
+资源包构建状态: ![Build Status](https://dev.azure.com/MoeCraft/ResourcePack/_apis/build/status/MoeNetwork.MoeCraft-Resourcepack?branchName=master)
+
+CDN 构建状态: ![Build Status](https://dev.azure.com/MoeCraft/MoeCraft/_apis/build/status/MoeCraft?branchName=master)
