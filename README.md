@@ -1,20 +1,28 @@
-# 特色&概述
+# MoeCraft 6 / 概述
+
+欢迎来到 MoeCraft 6。这是一个非盈利的、旨在为热爱 MC 的玩家创造最优环境的完全公益的 Minecraft 服务器。
+
+MoeCraft 创建于 2015 年六月，自创立以来，MoeCraft 始终坚持做一个高自由、高水平、纯公益的 Mod 服务器，将权限尽可能给予玩家、少对游戏进行干涉；同时认真筛选入服玩家，最大限度地确保新玩家的素质能够达到要求。
+
+MoeCraft 采用**全球** BGP 线路。在国内，无论是华北、华南还是华东，电信、联通、移动还是教育网，均能流畅地游玩。在海外，我们设有香港、日本、悉尼、圣彼得堡、西雅图节点进行加速，确保海外用户也能同样地流畅游玩。
+
+MoeCraft 6 即 MoeCraft 第六周目。第六周目旨在减少对原版游戏的侵入式修改，同时对 Mod 进行精心筛选，确保其性能和稳定性能够满足长期运行的需要。换句话说，尽管 Mod 众多，却不会对游戏内容和性能造成太大的影响。同时，本周目选用了单核性能极强的 Intel Xeon CPU E3-1230 v3 CPU 的 **独立服务器**。自本周目运行起，尚未出现过 TPS < 20的情况。
+
 ![screenshot-main]( https://cdn.moecraft.net/client/screenshot.jpg)     
 
-> MoeCraft 创立于 2015 年六月，是一个非盈利的、旨在为热爱 MC 的玩家创造最优环境的公益 Minecraft 服务器
-
-### 高水平
-每份入服申请均由多名老玩家及操作员审核，最大限度确保新玩家素质达到要求
-### 自由
 MoeCraft 并无严格的规则来限制玩家的行为，MoeCraft 信任每一位玩家的自我约束能力，即，MoeCraft 开放了几乎一切能开放的功能给全部玩家。
 
 > 你喜欢采矿镭射那高效直接的采矿手段吗？那就扔掉手中的钻头吧！     
 你喜欢核弹爆炸产生的快感吗？那就尽情享用吧！
 
+在第六周目，MoeCraft 的主城亦由众多热心玩家所建。
+
 **本服服规即为：不做你认为不应该做的**
-### 平等
-MoeCraft 旨在淡化 OP 对游戏的影响，我们认为，OP 亦为玩家。   
-同时，我们坚信，影响玩家的决策应该由玩家决定。
+
+MoeCraft 旨在淡化 OP 对游戏的影响，我们认为，OP 亦为玩家。同时，我们坚信，影响玩家的决策应该由玩家决定。
+
+此外，MoeCraft 具有 100Mbps 带宽 CDN 服务器，以及跨平台的更新器，确保玩家能够方便地接收更新。
+
 # 如何加入 MoeCraft
 
 1. 请打开 [https://accounts.moecraft.net/index.php?m=home&c=apply&a=applyinvitecode](https://accounts.moecraft.net/index.php?m=home&c=apply&a=applyinvitecode) 提交邀请码申请
@@ -30,70 +38,16 @@ MoeCraft 旨在淡化 OP 对游戏的影响，我们认为，OP 亦为玩家。
 
 **注意：** 若提示“无效的用户名”，则说明你操作错误，请关闭游戏，重新按照上面第六步操作。    
 **注意：** 若上述操作过程出现异常问题，请联系我们（见下文）   
+
 # Mod 清单
 请访问：[https://accounts.moecraft.net/Doc/Public/status](https://accounts.moecraft.net/Doc/Public/status)     
-以实时查看MoeCraft状态、玩家人数、Mod清单。本文所附Mod清单为发帖时的情况，不建议查看。
-```
-ActuallyAdditions-1.12.2-r135.jar
-ae2stuff-0.7.0.4-mc1.12.2.jar
-AppleCore-mc1.12.2-3.1.3.jar
-appliedenergistics2-rv5-stable-11.jar
-Aroma1997Core-1.12.2-2.0.0.0.b155.jar
-bdlib-1.14.3.12-mc1.12.2.jar
-BiblioCraft[v2.4.5][MC1.12.2].jar
-BrandonsCore-1.12-2.4.2.157-universal.jar
-Chisel-MC1.12.2-0.2.0.31.jar
-CodeChickenLib-1.12.2-3.1.9.344-universal.jar
-CoFHCore-1.12.2-4.5.2.19-universal.jar
-CoFHWorld-1.12.2-1.2.0.5-universal.jar
-CompactSolars-1.12.2-5.0.17.340-universal.jar
-CookingForBlockheads_1.12.2-6.4.40.jar
-CraftTweaker2-1.12-4.1.9.jar
-CustomSkinLoader_Forge-14.8.jar
-Draconic-Evolution-1.12-2.3.11.290-universal.jar
-extrautils2-1.12-1.7.6.jar
-foamfix-0.9.9.1-1.12.2-law.jar
-forestry_1.12.2-5.8.0.305.jar
-Forgelin-1.7.4.jar
-Hwyla-1.8.26-B41_1.12.2.jar
-industrialcraft-2-2.8.83-ex112.jar
-industrialforegoing-1.12.2-1.10.1-176.jar
-ironchest-1.12.2-7.0.40.824.jar
-jei_1.12.2-4.10.0.198.jar
-Mantle-1.12-1.3.2.24.jar
-mcjtylib-1.12-3.0.2.jar
-Mekanism-1.12.2-9.4.13.349.jar
-MekanismGenerators-1.12.2-9.4.13.349.jar
-MTLib-3.0.5.jar
-NBTEdit-0.7.jar
-NotEnoughItems-1.12.2-2.4.1.233-universal.jar
-OpenBlocks-1.12.2-1.7.6.jar
-OpenComputers-MC1.12.2-1.7.2.67.jar
-OpenModsLib-1.12.2-0.11.5.jar
-Pam's+HarvestCraft+1.12.2u.jar
-plustic-6.5.2.0.jar
-RedstoneFlux-1.12-2.0.2.3-universal.jar
-rftools-1.12-7.54.jar
-roost-1.12-1.2.0.jar
-SpiceOfLife-mc1.12-1.3.12.jar
-TConstruct-1.12.2-2.10.1.84.jar
-tesla-core-lib-1.12.2-1.0.14.jar
-ThermalCultivation-1.12.2-0.3.0.7-universal.jar
-ThermalDynamics-1.12.2-2.5.1.14-universal.jar
-ThermalExpansion-1.12.2-5.5.0.29-universal.jar
-ThermalFoundation-1.12.2-2.5.0.19-universal.jar
-tinker_io-1.12.2-release+2.6.1.jar
-TinkerToolLeveling-1.12.2-1.0.5.jar
-UniDict-1.12.2-2.5c.jar
-WanionLib-1.12.2-1.5.jar
-woot-1.12.2-1.4.1.jar
-```
+以实时查看MoeCraft状态、玩家人数、Mod清单。
 
 # 联系我们
 您可以通过以下方式联系我们：   
-电子邮件: admin$moecraft.net   
-用户中心的留言板（内容公开）    
+Github Issue:(**推荐**) [https://github.com/MoeNetwork/MoeCraft/issues](https://github.com/MoeNetwork/MoeCraft/issues)      
+电子邮件: admin$moecraft.net     
 
-# 群
-现已支持自助加入 MoeCraft Telegram 群，通过身份验证后即可加入    
-地址： https://t.me/MoeCraftBot
+# 其他信息
+## Azure CI 构建状态
+MoeCraft 的 CDN 和资源包通过 Azure Pipeline CI 实现自动化构建和发布。通常更改可在 10 分钟内发布到客户端。
