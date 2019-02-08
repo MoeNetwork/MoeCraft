@@ -21,13 +21,13 @@ MoeCraft 并无严格的规则来限制玩家的行为，MoeCraft 信任每一�
 
 MoeCraft 旨在淡化 OP 对游戏的影响，我们认为，OP 亦为玩家。同时，我们坚信，影响玩家的决策应该由玩家决定。
 
-此外，MoeCraft 具有 100Mbps 带宽 CDN 服务器，以及跨平台的更新器，确保玩家能够方便地接收更新。
+此外，MoeCraft 具有多台国内 G 口 CDN 服务器，以及跨平台的更新器，确保玩家能够方便地接收更新。
 
 ![screenshot-main](https://cdn.kotori.net/screenshot/main6-2.png)     
 
 # 如何加入 MoeCraft
 
-1. 请打开 [https://accounts.moecraft.net/index.php?m=home&c=apply&a=applyinvitecode](https://accounts.moecraft.net/index.php?m=home&c=apply&a=applyinvitecode) 提交邀请码申请
+1. 请打开 [https://accounts.moecraft.net/Home/Apply/applyInviteCode](https://accounts.moecraft.net/Home/Apply/applyInviteCode) 提交邀请码申请
 2. 我们会在最长 72 小时内审核您的申请。申请通过后您将收到邀请码邮件。您也可以手动查询申请状态
 3. 申请通过后，请您点击用户中心（[https://accounts.moecraft.net/](https://accounts.moecraft.net/)）上的注册按钮，输入信息完成注册。
 4. 完成注册后，按照提示输入 MC 玩家名确保可以登录游戏。
@@ -48,7 +48,7 @@ MoeCraft 旨在淡化 OP 对游戏的影响，我们认为，OP 亦为玩家。�
 # 联系我们
 您可以通过以下方式联系我们：   
 Github Issue:(**推荐**) [https://github.com/MoeNetwork/MoeCraft/issues](https://github.com/MoeNetwork/MoeCraft/issues)      
-电子邮件: admin$moecraft.net     
+电子邮件: [admin@moecraft.net](mailto:admin@moecraft.net)     
 
 # 相册
 
