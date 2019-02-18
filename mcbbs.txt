@@ -1,208 +1,73 @@
 [align=center][size=5][b][color=Red]本服是公益服并且愿意承担虚假宣传的一切后果[/color][/b][/size][/align]
 
-[size=5][b][color=Green]特色&概述[/color][/b][/size]
-[quote][color=Black]MoeCraft 创立于 2015 年六月，是一个非盈利的、旨在为热爱MC的玩家创造最优环境的公益Minecraft服务器[/color][/quote]
-每份入服申请均由多名老玩家及操作员审核，最大限度确保新玩家素质达到要求
+[size=5][b][color=Navy]MoeCraft 6 / 概述[/color][/b][/size]
 
-[size=3][b]自由[/b][/size]
-MoeCraft并无严格的规则来限制玩家的行为，MoeCraft信任每一位玩家的自我约束能力，即，MoeCraft开放了几乎一切能开放的功能给全部玩家。
+欢迎来到 MoeCraft 6。这是一个非盈利的、旨在为热爱 MC 的玩家创造最优环境的完全公益的 Minecraft 服务器。
+
+MoeCraft 创建于 2015 年六月，自创立以来，MoeCraft 始终坚持做一个高自由、高水平、纯公益的 Mod 服务器，将权限尽可能给予玩家、少对游戏进行干涉；同时认真筛选入服玩家，最大限度地确保新玩家的素质能够达到要求。
+
+[b]网络配置[/b]: MoeCraft 采用[b]全球[/b]BGP 线路。在国内，无论是华北、华南还是华东，电信、联通、移动还是教育网，均能流畅地游玩。在海外，我们设有香港、日本、悉尼、圣彼得堡、西雅图节点进行加速，确保海外用户也能同样地流畅游玩。
+
+MoeCraft 6 即 MoeCraft 第六周目。第六周目旨在减少对原版游戏的侵入式修改，同时对 Mod 进行精心筛选，确保其性能和稳定性能够满足长期运行的需要。换句话说，尽管 Mod 众多，却不会对游戏内容和性能造成太大的影响。同时，本周目选用了单核性能极强的 Intel Xeon CPU E3-1230 v3 CPU 的 [b]独立服务器[/b]。自本周目运行起，在无区块 bug 的前提下，尚未出现过 TPS < 20的情况。
+
+[attachimg]1292506[/attachimg]
+
+MoeCraft 并无严格的规则来限制玩家的行为，MoeCraft 信任每一位玩家的自我约束能力，即，MoeCraft 开放了几乎一切能开放的功能给全部玩家。
 
 [quote]你喜欢采矿镭射那高效直接的采矿手段吗？那就扔掉手中的钻头吧！
 你喜欢核弹爆炸产生的快感吗？那就尽情享用吧！[/quote]
+在第六周目，MoeCraft 的主城亦由众多热心玩家所建。
+
 [b]本服服规即为：不做你认为不应该做的[/b]
-[size=3][b]平等[/b][/size]
-MoeCraft旨在淡化OP对游戏的影响，我们认为，OP亦为玩家。
-[size=3][b]民主[/b][/size]
-我们坚信，影响玩家的决策应该由玩家决定。
 
-[size=5][color=Green][b]如何加入MoeCraft[/b][/color][/size]
-[list=1]
-[*]请打开 [url=https://accounts.moecraft.net/index.php?m=home&c=apply&a=applyinvitecode]https://accounts.moecraft.net/index.php?m=home&c=apply&a=applyinvitecode[/url] 提交邀请码申请
-[*]我们会在最长72小时内审核您的申请。申请通过后您将收到邀请码邮件。您也可以手动查询申请状态
-[*]申请通过后，请您点击用户中心（[url=https://accounts.moecraft.net/]https://accounts.moecraft.net/[/url]）上的注册按钮，输入信息完成注册。
-[*]完成注册后，按照提示输入MC玩家名确保可以登录游戏。
-[*]点击用户中心主页的“下载客户端”按钮下载MoeCraft客户端（根据你的系统选择客户端平台）
-[*]打开更新器，完成更新。[b][color=Blue]（注意:[/color] 未来若有更新从这步开始操作)[/b]
-[*]按照更新器指示完成更新。
-[*]点击[b]Launcher[/b]，添加账号，[b]账号类型选择Authlib-Injector[/b]（有[b]操作图解[/b]，见下文“图册”）
-[*]输入你的用户中心邮箱和密码。
-[*]游戏[b]选择“MoeCraft”[/b]或[b]“1.12.2-[color=Blue]Forge[/color]”[/b]，双击进入游戏.
-[/list]
-[b]注意：[/b]若提示“无效的用户名”，则说明你操作错误，请关闭游戏，重新按照上面第六步操作。
-[b]注意：[/b]若上述操作过程出现异常问题，请联系我们（见下文）
+MoeCraft 旨在淡化 OP 对游戏的影响，我们认为，OP 亦为玩家。同时，我们坚信，影响玩家的决策应该由玩家决定。
 
-[size=5][b][color=Green]Mod 清单[/color][/b][/size]
-[b]请访问：[/b][url=https://accounts.moecraft.net/Doc/Public/status]https://accounts.moecraft.net/Doc/Public/status[/url]
-以[b]实时查看[/b]MoeCraft状态、玩家人数、Mod清单。帖子所附Mod清单为发帖时的情况，不建议查看。
-[spoiler][code]Mode                LastWriteTime         Length Name
-----                -------------         ------ ----
--a----        2018/6/23      0:41        2882720 ActuallyAdditions-1.12.2-r135.jar
--a----        2018/6/23      0:34         513374 ae2stuff-0.7.0.4-mc1.12.2.jar
--a----        2018/6/23      0:48          81904 AppleCore-mc1.12.2-3.1.3.jar
--a----         2018/6/6     23:48        3570947 appliedenergistics2-rv5-stable-11.jar
--a----        2018/6/23      0:48         220072 Aroma1997Core-1.12.2-1.3.0.2.jar
--a----        2018/6/23      0:16        1962731 bdlib-1.14.3.12-mc1.12.2.jar
--a----         2018/6/8      2:24         155196 BetterFps-1.4.8.jar
--a----        2018/6/23      0:36        5122856 BiblioCraft[v2.4.5][MC1.12.2].jar
--a----        2018/6/23      0:44         737948 BrandonsCore-1.12-2.4.2.157-universal.jar
--a----        2018/6/12     23:58        4294434 Chisel-MC1.12.2-0.2.0.31.jar
--a----        2018/6/23      1:15         678911 CodeChickenLib-1.12.2-3.1.9.344-universal.jar
--a----         2018/6/7     23:37         838177 CoFHCore-1.12.2-4.5.2.19-universal.jar
--a----         2018/6/7     23:38         449717 CoFHWorld-1.12.2-1.2.0.5-universal.jar
--a----         2018/7/9      8:53          71767 CompactSolars-1.12.2-5.0.17.340-universal.jar
--a----        2018/6/23      0:47         567928 CookingForBlockheads_1.12.2-6.4.40.jar
--a----        2018/6/30     21:25        1275699 CraftTweaker2-1.12-4.1.9.jar
--a----        2018/6/23      0:50         190760 CTM-MC1.12-0.3.0.15.jar
--a----        2018/6/23      0:44        5616878 Draconic-Evolution-1.12-2.3.11.290-universal.jar
--a----         2018/6/9     23:42        2938611 extrautils2-1.12-1.7.6.jar
--a----         2018/6/7     23:34         206359 foamfix-0.9.9.1-1.12.2-anarchy.jar
--a----        2018/6/23      0:43        5289088 forestry_1.12.2-5.8.0.305.jar
--a----        2018/6/23      0:40        4595089 Forgelin-1.7.4.jar
--a----         2018/6/6     23:40         453778 Hwyla-1.8.26-B41_1.12.2.jar
--a----         2018/6/6     23:50        7998046 industrialcraft-2-2.8.83-ex112.jar
--a----        2018/6/23      0:32        1358547 industrialforegoing-1.12.2-1.10.1-176.jar
--a----        2018/6/23      0:53          26731 InventorySpam-1.12.0-1.0.3.jar
--a----         2018/6/7     23:42         263258 InventoryTweaks-1.63.jar
--a----        2018/6/30     21:20        1101965 ironchest-1.12.2-7.0.40.824.jar
--a----        2018/6/23      0:16         571526 jei_1.12.2-4.10.0.198.jar
--a----         2018/6/6     23:37        1822850 journeymap-1.12.2-5.5.2.jar
--a----        2018/6/23      0:17         213675 JustEnoughResources-1.12.2-0.8.5.27.jar
--a----         2018/6/9     23:45         860884 Mantle-1.12-1.3.2.24.jar
--a----        2018/6/23      0:14         476977 mcjtylib-1.12-3.0.2.jar
--a----        2018/6/24     23:32       16020358 Mekanism-1.12.2-9.4.13.349.jar
--a----        2018/6/24     23:32         338984 MekanismGenerators-1.12.2-9.4.13.349.jar
--a----        2018/6/30     21:25         398780 modtweaker-4.0.12.jar
--a----        2018/6/30     21:25          30005 MTLib-3.0.5.jar
--a----        2018/6/30     21:20          61908 NBTEdit-0.7.jar
--a----        2018/6/23      0:20         465901 NotEnoughItems-1.12.2-2.4.1.233-universal.jar
--a----         2018/6/7     23:23        3173186 OpenBlocks-1.12.2-1.7.6.jar
--a----        2018/6/23      0:42       15316083 OpenComputers-MC1.12.2-1.7.2.67.jar
--a----         2018/6/7     23:22        2609119 OpenModsLib-1.12.2-0.11.5.jar
--a----         2018/6/6     23:42        2380874 OptiFine_1.12.2_HD_U_D3.jar
--a----        2018/6/23      0:45        4366852 Pam's+HarvestCraft+1.12.2u.jar
--a----         2018/6/9     23:47         359796 plustic-6.5.2.0.jar
--a----         2018/6/7     23:37          35219 RedstoneFlux-1.12-2.0.2.3-universal.jar
--a----        2018/6/23      0:14        2883228 rftools-1.12-7.54.jar
--a----        2018/6/23      0:34         346204 roost-1.12-1.2.0.jar
--a----        2018/6/23      0:51         216373 SmoothFont-1.12.2-1.15.jar
--a----        2018/6/23      0:47         207687 SpiceOfLife-mc1.12-1.3.12.jar
--a----         2018/6/9     23:45        3851409 TConstruct-1.12.2-2.10.1.84.jar
--a----        2018/6/23      0:35        1140125 tesla-core-lib-1.12.2-1.0.14.jar
--a----        2018/6/23      0:46         103830 ThermalCultivation-1.12.2-0.3.0.7-universal.jar
--a----        2018/6/23      0:45         758676 ThermalDynamics-1.12.2-2.5.1.14-universal.jar
--a----        2018/6/23      0:46        2342103 ThermalExpansion-1.12.2-5.5.0.29-universal.jar
--a----         2018/6/7     23:36        2284786 ThermalFoundation-1.12.2-2.5.0.19-universal.jar
--a----         2018/6/9     23:48          95021 TinkerToolLeveling-1.12.2-1.0.5.jar
--a----        2018/6/12     23:55        5819424 tinker_io-1.12.2-release+2.6.1.jar
--a----        2018/6/23      0:42         177943 UniDict-1.12.2-2.5c.jar
--a----        2018/6/23      0:37          63189 WanionLib-1.12.2-1.5.jar
--a----        2018/6/15      0:32          59098 World-Tooltips-1.12.2-1.2.7-102.jar
--a----        2018/3/18     14:47         461792 WorldEdit+CUI+Forge+Edition+2-2.1.2-mf-1.12-14.21.1.2387.jar
--a----        2018/3/18     14:17        1470354 worldedit-forge-mc1.12-6.1.8-dist.jar[/code]
-[/spoiler]
+此外，MoeCraft 具有多台国内 G 口 CDN 服务器，以及跨平台的更新器，确保玩家能够方便地接收更新。
 
-[size=5][b][color=Green]图册[/color][/b][/size]
-[b]服务器[/b]
-[attachimg]1235986[/attachimg]
-[attachimg]1235988[/attachimg]
-[attachimg]1235987[/attachimg]
-[attachimg]1235989[/attachimg]
+[attachimg]1292507[/attachimg]
 
-[b]用户中心[/b]
-[attachimg]894531[/attachimg]
+[size=5][b][color=Navy]如何加入 MoeCraft[/color][/b][/size]
 
-[b]登录操作图解[/b]
-[attachimg]1235981[/attachimg]
+1. 请打开 [url=https://accounts.moecraft.net/Home/Apply/applyInviteCode]https://accounts.moecraft.net/Home/Apply/applyInviteCode[/url] 提交邀请码申请
+2. 我们会在最长 72 小时内审核您的申请。申请通过后您将收到邀请码邮件。您也可以手动查询申请状态
+3. 申请通过后，请您点击用户中心 [url=https://accounts.moecraft.net/](https://accounts.moecraft.net/]https://accounts.moecraft.net/](https://accounts.moecraft.net/[/url] 上的注册按钮，输入信息完成注册。
+4. 完成注册后，按照提示输入 MC 玩家名确保可以登录游戏。
+5. 点击用户中心主页的“下载客户端”按钮下载 MoeCraft 客户端（根据你的系统选择客户端平台）
+6. 打开更新器，完成更新。（[b]注意[/b]: 未来若有更新从这步开始操作)
+7. 按照更新器指示完成更新。
+8. 点击 Launcher，添加账号，账号类型选择 [b]Authlib-Injector[/b]
+9. 输入你的用户中心邮箱和密码。
+10. 游戏选择“ MoeCraft ”或“ 1.12.2-[b]Forge[/b]”，双击进入游戏.
 
-[b]服务器配置[/b]
-[attachimg]1236020[/attachimg]
+[b]注意：[/b] 若提示“无效的用户名”，则说明你操作错误，请关闭游戏，重新按照上面第六步操作。
+[b]注意：[/b] 若上述操作过程出现异常问题，请联系我们（见下文）
 
-[size=5][b][color=Green]联系我们[/color][/b][/size]
+[size=5][b][color=Navy]Mod 清单[/color][/b][/size]
+请访问：[https://accounts.moecraft.net/Doc/Public/status](https://accounts.moecraft.net/Doc/Public/status)
+以实时查看MoeCraft状态、玩家人数、Mod清单。
+
+[size=5][b][color=Navy]联系我们[/color][/b][/size]
 您可以通过以下方式联系我们：
-[list]
-[*]电子邮件: [url=mailto:admin@moecraft.net]admin@moecraft.net[/url]
-[*]用户中心的留言板（内容公开）
-[/list]
+Github Issue:([b]推荐[/b]) [url=https://github.com/MoeNetwork/MoeCraft/issues]https://github.com/MoeNetwork/MoeCraft/issues[/url]
+电子邮件: [url=mailto:admin@moecraft.net]admin@moecraft.net[/url]
 
-[size=5][b][color=Green]MoeCraft服务协议(2018.1版)[/color][/b][/size]
-[spoiler]《MoeCraft服务协议》
-欢迎来到MoeCraft！
+[size=5][b][color=Navy]相册[/color][/b][/size]
 
-请务必认真阅读和理解本《MoeCraft服务协议》（以下简称《协议》）中规定的所有权利和限制。除非您接受本《协议》条款，否则您无权注册、登录或使用MoeCraft提供的任何服务。您一旦注册、登录、使用或以任何方式使用MoeCraft提供的任何服务的行为将视为对本《协议》的接受，即表示您同意接受本《协议》各项条款的约束。如果您不同意本《协议》中的条款，请不要注册、登录或使用MoeCraft提供的任何服务。
+打开 Github 仓库的 screenshot 目录即为相册，地址: [url=https://github.com/MoeNetwork/MoeCraft/tree/master/assets]https://github.com/MoeNetwork/MoeCraft/tree/master/assets[/url]
 
-1.协议范围
-本《协议》是您与MoeCraft之间关于使用MoeCraft所提供的服务所订立的协议。
-2.账号使用细则
-2.1.用户在申请使用MoeCraft提供的服务时，必须向MoeCraft提供准确的个人资料，如个人资料有任何变动，必须及时更新。因用户提供个人资料不准确、不真实而引发的一切后果由用户承担。
+您也可以向该仓库提交 Pull Request 来提交您的截图。
 
-2.2.用户不应将其帐号、密码转让、出借、销售或以任何脱离用户控制的形式交由他人使用。如用户发现其帐号遭他人非法使用，应立即通知MoeCraft官方。因黑客行为或用户的保管疏忽导致帐号、密码遭他人非法使用，MoeCraft不承担任何责任。
+[b][size=5][color=Navy]其他信息[/color][/size][/b]
+[b][size=3]发布您的资源到 MoeCraft 资源包[/size][/b]
 
-2.4.用户不应当注册带有不当性质的账号，也不应一人多号或一号多人。因用户主观错误而引发的一切后果由用户承担。
+您可以通过向[url=https://github.com/MoeNetwork/MoeCraft-Resourcepack]此仓库提交 Pull Request[/url]来发布您的资源，当 PR 被接受后，您的资源将很快分发到其他玩家。
 
-2.5.MoeCraft帐号的所有权归MoeCraft所有，用户完成注册申请手续后，获得MoeCraft帐号的使用权。
+[size=3][b]Azure CI 构建状态[/b][/size]
+MoeCraft 的 CDN 和资源包通过 Azure Pipeline CI 实现自动化构建和发布。通常更改可在 10 分钟内发布到客户端。
 
-3.服务细则
-3.1.除非另有说明，MoeCraft提供的服务只适用于个人与非商业用途。对于从服务取得的任何信息、软件、产品或服务，您不得对其修改、复制、分发、传送、显示、执行、复制、公布、许可、转让、销售或基于以上内容创建衍生作品。
+资源包构建状态: [img]https://dev.azure.com/MoeCraft/ResourcePack/_apis/build/status/MoeNetwork.MoeCraft-Resourcepack?branchName=master[/img]
 
-3.2.您同意仅使用MoeCraft提供的服务张贴和收发恰当的、与特定服务相关（如果适用）的消息和资料。您同意在使用MoeCraft服务时，您不会进行（包括但不限于）以下活动：
-[list=1]
-[*]使用服务发送调查、竞赛、传销信息、连锁信、垃圾邮件或者任何复制性或主动提供的消息（商业或其他目的）。
-[*]诽谤、辱骂、骚扰、恐吓、威胁其他人或以其他方式侵犯其他人的合法权利（如隐私权和公开权）。
-[*]发布、张贴、上载、分发或散布任何不恰当的、亵渎的、诽谤的、猥亵的、下流的或其他非法主题、名称、资料或信息。
-[*]上传或以其他方式提供包含受知识产权法（包括但不限于，版权法或商标法）、隐私权或公开权保护的图像、照片、软件或其他资料的文件，但您自己拥有或控制这些权利或者获得所有必要许可的情况除外。
-[*]在使用通过服务获取的任何资料或信息（包括图像、照片）时，以任何方式侵犯任何当事方的任何版权、商标、专利、商业秘密或其他专有权。
-[*]上载含病毒、木马、蠕虫、定时炸弹、清除器、损坏的文件或者任何类似的、可能损害其他人的计算机或资产的软件或程序。
-[*]出于任何商业目的进行广告宣传或者提出销售、购买任何商品或服务，但服务明确允许此类消息的情况除外。
-[*]下载另一名用户张贴的、您明确知道或者理应知道不得以这种方式进行非法复制、展示、执行和/或分发的任何文件。
-[*]伪造或删除任何版权管理信息，如作者归属、法律声明或其他相应的声明、专有标志、上载文件所含的软件或其他资料的来源或出处标签。
-[*]阻碍、限制或禁止其他用户使用和享有MoeCraft提供的服务。
-[*]违反适用于任何特定服务的任何行为准则或其他准则。
-[*]获取或以其他方式收集其他人的信息，包括电子邮件地址。
-[*]违反任何适用的法律法规。
-[*]捏造假身份来误导其他人。
-[*]使用、下载或以其他方式复制、或者向其他人或实体（免费或收费）提供服务用户或其他用户的任何目录、使用信息或其部分信息。
-[/list]
-4.许可终止
-4.1.若您违反用户协议，则您的账户将会被禁用，且一切使用MoeCraft提供的服务的权利将被回收。
+CDN 构建状态: [img=181,20]https://dev.azure.com/MoeCraft/MoeCraft/_apis/build/status/MoeCraft?branchName=master[/img]
 
-4.2.无论何时，如果您主动放弃或被收回了许可，您必须立即删除所有有关于MoeCraft的数据、停止使用MoeCraft提供的服务。
-
-5.免责声明
-在适用法律所允许的最大范围内，MoeCraft在任何情况下绝不就因在MoeCraft所发生的任何特殊、意外、非直接或间接的损害负赔偿责任，即使事先被告知该损害发生的可能性。
-6.其他条款
-6.1.MoeCraft有权在必要时修改本《协议》条款。您可以在相关页面查阅最新版本的协议条款。
-
-6.2.MoeCraft保留在不通知用户的前提下适当修改该协议的权利。当用户协议发生变更后，用户须遵守最新的用户协议，MoeCraft保留对此用户协议的最终解释权。
-
-6.3.本《协议》条款变更后，如果您继续使用MoeCraft提供的服务，即视为您已接受修改后的协议。如果您不接受修改后的协议，那么视为您主动放弃一切许可。[/spoiler]
-
-[size=5][b][color=Green]群[/color][/b][/size]
-现已支持自助加入 MoeCraft Telegram 群，通过身份验证后即可加入
-地址：[url=https://t.me/MoeCraftBot]https://t.me/MoeCraftBot[/url]
-
-[size=5][b][color=Green]其他参考信息[/color][/b][/size]
-[spoiler]
-[b]Telegram 群 / QQ 群[/b]
-现已支持自助加入 MoeCraft Telegram 群
-[url=https://t.me/MoeCraftBot]https://t.me/MoeCraftBot[/url]\
-QQ群暂不支持
-[b]MC服务器IP/域名[/b]
-moecraft.net
-[b]Authlib Injector[/b]
-API URL: [url=https://accounts.moecraft.net/?s=API/Mc/authlib&params=/]https://accounts.moecraft.net/?s=API/Mc/authlib?params=/[/url]
-[b]Custom Skin Loader[/b]
-API URL: [url=https://accounts.moecraft.net/?s=API/Mc/skin&params=/]https://accounts.moecraft.net/?s=API/Mc/skin?params=/[/url]
-[b]按照GPLv3协议公开的HMCL for Moecraft v2源代码[/b]
-[url=https://github.com/kenvix/HMCL]https://github.com/kenvix/HMCL[/url]
-[/spoiler]
-
-[size=5]关于捐助[/size]
-MoeCraft 目前(2018年8月)暂时没有资金问题，故不接受以服务器名义的捐助。
-旧的捐助公告已无效，[b]请勿[/b]往上述地址捐助
-Operators 可能接受[b]个人名义[/b]的捐助，但该捐助[b]与MoeCraft无关，不会登上MoeCraft官方的捐助榜，也不会获得任何MoeCraft上的奖励[/b]
-
-[size=5]OP证明[/size]
-[spoiler][attachimg]1236016[/attachimg][/spoiler]
-
-Written by Kenvix at 2018/08/05
-Copyright (c) 2015~2018 MoeCraft. All Right Reserved
+Written by Kenvix at 2019/02/18
+Copyright (c) 2015~2019 MoeCraft. All Rights Reserved
