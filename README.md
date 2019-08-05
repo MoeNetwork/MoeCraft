@@ -23,7 +23,7 @@ MoeCraft 旨在淡化 OP 对游戏的影响，我们认为，OP 亦为玩家。�
 
 此外，MoeCraft 具有多台国内 G 口 CDN 服务器，以及跨平台的更新器，确保玩家能够方便地接收更新。
 
-![screenshot-main](https://cdn.kotori.net/screenshot/main6-2.png)     
+![screenshot-main](screenshot/main6.png)     
 
 # 如何加入 MoeCraft
 
