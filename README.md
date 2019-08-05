@@ -8,7 +8,7 @@ MoeCraft 创建于 2015 年六月，自创立以来，MoeCraft 始终坚持做�
 
 MoeCraft 6 即 MoeCraft 第六周目。第六周目旨在减少对原版游戏的侵入式修改，同时对 Mod 进行精心筛选，确保其性能和稳定性能够满足长期运行的需要。换句话说，尽管 Mod 众多，却不会对游戏内容和性能造成太大的影响。同时，本周目选用了单核性能极强的 Intel Xeon CPU E3-1230 v3 CPU 的 **独立服务器**。自本周目运行起，在无区块 bug 的前提下，尚未出现过 TPS < 20的情况。
 
-![screenshot-main](https://cdn.kotori.net/screenshot/main6.png)     
+![screenshot-main](screenshot/main6.png)     
 
 MoeCraft 并无严格的规则来限制玩家的行为，MoeCraft 信任每一位玩家的自我约束能力，即，MoeCraft 开放了几乎一切能开放的功能给全部玩家。
 
@@ -23,7 +23,7 @@ MoeCraft 旨在淡化 OP 对游戏的影响，我们认为，OP 亦为玩家。�
 
 此外，MoeCraft 具有多台国内 G 口 CDN 服务器，以及跨平台的更新器，确保玩家能够方便地接收更新。
 
-![screenshot-main](screenshot/main6.png)     
+![screenshot-main2](screenshot/main6-2.png)     
 
 # 如何加入 MoeCraft
 
